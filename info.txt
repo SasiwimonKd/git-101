@@ -1,1 +1,4 @@
 ์Name: My
+tel: 0988458447
+Address: Pathumthani
+Birthday: 07/04/2541
